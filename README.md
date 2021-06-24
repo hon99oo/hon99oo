@@ -6,7 +6,6 @@
 	
   </div>
 
-<div align=center>
-	[![hon99oo's github stats](https://github-readme-stats.vercel.app/api?username=hon99oo)](https://github.com/anuraghazra/github-readme-stats)
-	</div>
+[![hon99oo's github stats](https://github-readme-stats.vercel.app/api?username=hon99oo)](https://github.com/anuraghazra/github-readme-stats)
+
 	
