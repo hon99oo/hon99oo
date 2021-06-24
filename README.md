@@ -15,7 +15,9 @@
 	<strong>Tech Stack</strong>
 	</div>
 <hr>
-Front-End <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<div>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+</div>
 [![hon99oo's github stats](https://github-readme-stats.vercel.app/api?username=hon99oo)](https://github.com/anuraghazra/github-readme-stats)
 
 	
