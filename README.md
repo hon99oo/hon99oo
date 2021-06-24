@@ -11,8 +11,8 @@
 	
 </div>
 
-<div align=center size=100>
-	Tech Stack
+<div align=center>
+	<strong>Tech Stack</strong>
 	</div>
 [![hon99oo's github stats](https://github-readme-stats.vercel.app/api?username=hon99oo)](https://github.com/anuraghazra/github-readme-stats)
 
