@@ -1,5 +1,5 @@
 <div align=center>
-	<br>🇰🇷<br>
+	<br>🇰🇷<br><br>
 	안녕하세요! 👋 완벽을 추구하는 프로그래머가 되고싶은 software developer 강홍구입니다.<br>
 2021년 3월, 본격적으로 웹 개발을 시작했습니다🐥 호기심을 탐구하고 배움을 좋아합니다😁
 </div>
@@ -11,6 +11,9 @@
 	
 </div>
 
+<div align=center>
+	Tech Stack
+	</div>
 [![hon99oo's github stats](https://github-readme-stats.vercel.app/api?username=hon99oo)](https://github.com/anuraghazra/github-readme-stats)
 
 	
