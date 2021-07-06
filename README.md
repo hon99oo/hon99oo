@@ -1,6 +1,6 @@
 <div align=center>
 	<br>🇰🇷<br><br>
-	안녕하세요!  👋 &nbsp 단순 코딩이 아닌 비즈니스를 해결할 수 있는 프로그래머가 되고싶은 software developer 강홍구입니다.<br>
+	안녕하세요! 👋 &nbsp 단순 코딩이 아닌 비즈니스를 해결할 수 있는 프로그래머가 되고싶은 software developer 강홍구입니다.<br>
 2021년 3월, 본격적으로 웹 개발을 시작했습니다🐥 호기심을 탐구하고 배움을 좋아합니다😁
 </div>
 
